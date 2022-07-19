@@ -9,7 +9,7 @@
  * 3. alwaysNotice控制是否重复显示已经看过的图片，如果设置为false，则只会显示更新的图片。
  */
 
-let channels = ["thisworldfeed", "love_nice_girl", "L_Gakki"];
+let channels = ["love_nice_girl"];
 let maxMedias = 3;
 let alwaysNotice = false;
 
