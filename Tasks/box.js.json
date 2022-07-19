@@ -1,9 +1,9 @@
 {
   "id": "pengym.app.sub",
-  "name": "Peng-YM 应用订阅",
-  "author": "@Peng-YM",
+  "name": "zhlxsh 应用订阅4Peng-YM",
+  "author": "@zhlxsh4Peng-YM",
   "icon": "https://avatars2.githubusercontent.com/u/21050064?s=460&u=40a74913dd0a3d00670d05148c3a08c787470021&v=4",
-  "repo": "https://github.com/Peng-YM/QuanX",
+  "repo": "https://github.com/zhlxsh/QuanX",
   "apps": [
     {
       "id": "Github Monitor",
@@ -29,13 +29,13 @@
           "desc": "Github Token"
         }
       ],
-      "author": "@Peng-YM",
-      "repo": "https://github.com/Peng-YM/QuanX",
+      "author": "@zhlxsh",
+      "repo": "https://github.com/zhlxsh/QuanX",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/github.png",
         "https://raw.githubusercontent.com/Orz-3/task/master/github.png"
       ],
-      "script": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js"
+      "script": "https://raw.githubusercontent.com/zhlxsh/QuanX/master/Tasks/github.js"
     },
     {
       "id": "Flow",
@@ -54,13 +54,13 @@
           "desc": "机场订阅 (JSON 格式)"
         }
       ],
-      "author": "@Peng-YM",
-      "repo": "https://github.com/Peng-YM/QuanX",
+      "author": "@zhlxsh",
+      "repo": "https://github.com/zhlxsh/QuanX",
       "icons": [
         "https://raw.githubusercontent.com/58xinian/icon/master/flow_mini.png",
         "https://raw.githubusercontent.com/58xinian/icon/master/flow.png"
       ],
-      "script": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/flow.js"
+      "script": "https://raw.githubusercontent.com/zhlxsh/QuanX/master/Tasks/flow.js"
     },
     {
       "id": "Steam",
@@ -79,13 +79,13 @@
           "desc": "游戏列表 (JSON 格式)"
         }
       ],
-      "author": "@Peng-YM",
-      "repo": "https://github.com/Peng-YM/QuanX",
+      "author": "@zhlxsh",
+      "repo": "https://github.com/zhlxsh/QuanX",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/steam.png",
         "https://raw.githubusercontent.com/Orz-3/task/master/steam.png"
       ],
-      "script": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/steam.js"
+      "script": "https://raw.githubusercontent.com/zhlxsh/QuanX/master/Tasks/steam.js"
     },
     {
       "id": "Zongheng",
@@ -104,13 +104,13 @@
           "desc": "小说的id列表, 使用方法：进入纵横小说页面，例如<<剑来>>：http://book.zongheng.com/book/672340.html 则id为672340，将id添加到列表即可。"
         }
       ],
-      "author": "@Peng-YM",
-      "repo": "https://github.com/Peng-YM/QuanX",
+      "author": "@zhlxsh",
+      "repo": "https://github.com/zhlxsh/QuanX",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/zongheng.png",
         "https://raw.githubusercontent.com/Orz-3/task/master/zongheng.png"
       ],
-      "script": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/zongheng.js"
+      "script": "https://raw.githubusercontent.com/zhlxsh/QuanX/master/Tasks/zongheng.js"
     },
     {
       "id": "Telegram",
@@ -138,13 +138,13 @@
           "desc": "每个频道最多显示视频和图片的数量, 默认为3"
         }
       ],
-      "author": "@Peng-YM",
-      "repo": "https://github.com/Peng-YM/QuanX",
+      "author": "@zhlxsh",
+      "repo": "https://github.com/zhlxsh/QuanX",
       "icons": [
         "https://raw.githubusercontent.com/58xinian/icon/master/telegram_mini.png",
         "https://raw.githubusercontent.com/58xinian/icon/master/telegram.png"
       ],
-      "script": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/telegram.js"
+      "script": "https://raw.githubusercontent.com/zhlxsh/QuanX/master/Tasks/telegram.js"
     },
     {
       "id": "Caiyun",
@@ -197,13 +197,13 @@
           "desc": "经度，可以关闭MITM获取位置，手动设置"
         }
       ],
-      "author": "@Peng-YM",
-      "repo": "https://github.com/Peng-YM/QuanX",
+      "author": "@zhlxsh",
+      "repo": "https://github.com/zhlxsh/QuanX",
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/caiyun.png",
         "https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png"
       ],
-      "script": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js"
+      "script": "https://raw.githubusercontent.com/zhlxsh/QuanX/master/Tasks/caiyun.js"
     },
     {
       "id": "running-mode",
@@ -215,8 +215,8 @@
         "@surge_running_mode.all_direct",
         "@surge_running_mode.all_proxy"
       ],
-      "author": "@Peng-YM",
-      "repo": "https://github.com/Peng-YM/QuanX",
+      "author": "@zhlxsh",
+      "repo": "https://github.com/zhlxsh/QuanX",
       "settings": [
         {
           "id": "@surge_running_mode.silence",
@@ -283,8 +283,8 @@
         }
       ],
       "icons": [
-        "https://github.com/Peng-YM/QuanX/blob/master/assets/icons/Surge_run_transparent1.png?raw=true",
-        "https://github.com/Peng-YM/QuanX/blob/master/assets/icons/Surge_run1.png?raw=true"
+        "https://github.com/zhlxsh/QuanX/blob/master/assets/icons/Surge_run_transparent1.png?raw=true",
+        "https://github.com/zhlxsh/QuanX/blob/master/assets/icons/Surge_run1.png?raw=true"
       ]
     },
     {
@@ -300,8 +300,8 @@
         "@surge_auto_policy.global_proxy",
         "@surge_auto_policy.global_direct"
       ],
-      "author": "@Peng-YM",
-      "repo": "https://github.com/Peng-YM/QuanX",
+      "author": "@zhlxsh",
+      "repo": "https://github.com/zhlxsh/QuanX",
       "settings": [
         {
           "id": "@surge_auto_policy.silence",
@@ -389,8 +389,8 @@
         }
       ],
       "icons": [
-        "https://github.com/Peng-YM/QuanX/blob/master/assets/icons/Surge_run_transparent.png?raw=true",
-        "https://github.com/Peng-YM/QuanX/blob/master/assets/icons/Surge_run.png?raw=true"
+        "https://github.com/zhlxsh/QuanX/blob/master/assets/icons/Surge_run_transparent.png?raw=true",
+        "https://github.com/zhlxsh/QuanX/blob/master/assets/icons/Surge_run.png?raw=true"
       ]
     },
     {
@@ -400,8 +400,8 @@
         "@github_private_repo.username",
         "@github_private_repo.token"
       ],
-      "author": "@Peng-YM",
-      "repo": "https://github.com/Peng-YM/QuanX",
+      "author": "@zhlxsh",
+      "repo": "https://github.com/zhlxsh/QuanX",
       "settings": [
         {
           "id": "@github_private_repo.username",
@@ -426,8 +426,8 @@
     {
       "id": "next-dns",
       "name": "NextDNS",
-      "author": "@Peng-YM",
-      "repo": "https://github.com/Peng-YM/Sub-Store",
+      "author": "@zhlxsh",
+      "repo": "https://github.com/zhlxsh/Sub-Store",
       "keys": [],
       "settings": [
         {
@@ -461,7 +461,7 @@
       "id": "nCov",
       "name": "疫情监控",
       "author": "@YangZhaocool",
-      "repo": "https://github.com/Peng-YM/QuanX",
+      "repo": "https://github.com/zhlxsh/QuanX",
       "keys": [
         "@nCov.api"
       ],
@@ -473,7 +473,7 @@
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/COVID-19.png"
       ],
-      "script": "https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/nCov.js"
+      "script": "https://raw.githubusercontent.com/zhlxsh/QuanX/master/Tasks/nCov.js"
     }
   ]
 }
